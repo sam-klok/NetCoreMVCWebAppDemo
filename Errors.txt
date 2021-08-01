@@ -1,0 +1,12 @@
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	CTC1005	Your Docker server host is configured for 'Linux', however your project targets 'Windows'.	NetCoreMVCWebAppDemo	
+C:\Users\SKlok\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.10.9\build\Container.targets	198	
+
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Message	IDE0052	Private member 'HomeController._logger' can be removed as the value assigned to it is never read.	NetCoreMVCWebAppDemo	
+C:\Repos\NetCoreMVCWebAppDemo\NetCoreMVCWebAppDemo\Controllers\HomeController.cs	14	Active
+
+Error	CTC1005	Your Docker server host is configured for 'Linux', however your project targets 'Windows'.	NetCoreMVCWebAppDemo	
+C:\Users\SKlok\.nuget\packages\microsoft.visualstudio.azure.containers.tools.targets\1.10.9\build\Container.targets	198	
+

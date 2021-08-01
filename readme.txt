@@ -1,0 +1,1 @@
+Attempt to create simle .Net Core MVC web application with Docker support
